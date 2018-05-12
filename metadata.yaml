@@ -1,0 +1,30 @@
+_repo: Dichtertje---De-Uitvreter---Titaantjes_29719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nescio
+    aliases:
+    - Gronloh, Jan Hendrik Frederik
+    - Grönloh, Frits
+    - Grönloh, Jan Hendrik Frederik
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '34105'
+    url: http://www.gutenberg.org/2009/agents/34105
+description: ''
+gutenberg_issued: '2009-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29719'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+title: Dichtertje - De Uitvreter - Titaantjes
+url: http://www.gutenberg.org/ebooks/29719
